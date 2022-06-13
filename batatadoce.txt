@@ -1,5 +1,9 @@
 
 são joão
 criei outro arquivo
+<<<<<<< HEAD
 Arrumando a casa 
 dançando são joão
+=======
+o peste que saudade da mulesta
+>>>>>>> 1bfa84c27709ce1b3ccd8031a959d8e6489cf345
